@@ -1,0 +1,48 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'CONTCAR                               '
+_cell_length_a                         5.72118
+_cell_length_b                         5.65945
+_cell_length_c                         20.00000
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Fe1        1.0    -0.000537      0.252756      0.238780     Biso  1.000000 Fe
+   Fe2        1.0     0.250562      0.252781      0.134785     Biso  1.000000 Fe
+   Fe3        1.0    -0.000537      0.752756      0.238780     Biso  1.000000 Fe
+   Fe4        1.0     0.250562      0.752781      0.134785     Biso  1.000000 Fe
+   B1         1.0     0.001452      0.002779      0.159075     Biso  1.000000 B
+   B2         1.0     0.248556      0.002758      0.214504     Biso  1.000000 B
+   B3         1.0     0.001452      0.502780      0.159075     Biso  1.000000 B
+   B4         1.0     0.248556      0.502758      0.214504     Biso  1.000000 B
+   B5         1.0     0.498601      0.002782      0.161355     Biso  1.000000 B
+   B6         1.0     0.751395      0.002768      0.212247     Biso  1.000000 B
+   B7         1.0     0.498601      0.502783      0.161355     Biso  1.000000 B
+   B8         1.0     0.751395      0.502770      0.212247     Biso  1.000000 B
+   Cr1        1.0     0.501547      0.252764      0.244192     Biso  1.000000 Cr
+   Cr2        1.0     0.748424      0.252770      0.129421     Biso  1.000000 Cr
+   Cr3        1.0     0.501546      0.752764      0.244193     Biso  1.000000 Cr
+   Cr4        1.0     0.748424      0.752770      0.129421     Biso  1.000000 Cr

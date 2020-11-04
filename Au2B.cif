@@ -1,0 +1,35 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'mp-1027525_MoS2                       '
+_cell_length_a                         3.00267
+_cell_length_b                         2.99255
+_cell_length_c                         20.00000
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      120.11187
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   B1         1.0     0.332976      0.665948      0.185987     Biso  1.000000 B
+   Au1        1.0     0.666836      0.333670      0.113794     Biso  1.000000 Au
+   Au2        1.0     0.666858      0.333712      0.258179     Biso  1.000000 Au

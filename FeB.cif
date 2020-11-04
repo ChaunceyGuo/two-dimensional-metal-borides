@@ -1,0 +1,36 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'CONTCAR                               '
+_cell_length_a                         2.81997
+_cell_length_b                         2.78483
+_cell_length_c                         20.00000
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Fe1        1.0     0.000000      0.505555      0.239976     Biso  1.000000 Fe
+   Fe2        1.0     0.500000      0.505547      0.133610     Biso  1.000000 Fe
+   B1         1.0     1.000000      0.005522      0.158470     Biso  1.000000 B
+   B2         1.0     0.500000      0.005537      0.215124     Biso  1.000000 B

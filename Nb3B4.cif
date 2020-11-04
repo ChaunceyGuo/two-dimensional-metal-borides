@@ -1,0 +1,39 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'Nb3B4\(2)                             '
+_cell_length_a                         3.03199
+_cell_length_b                         3.18484
+_cell_length_c                         22.00000
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Nb1        1.0     0.500000      0.500000      0.420768     Biso  1.000000 Nb
+   Nb2        1.0     0.000000      0.500000      0.300966     Biso  1.000000 Nb
+   Nb3        1.0     0.500000      0.500000      0.181175     Biso  1.000000 Nb
+   B1         1.0     1.000000      0.000000      0.384544     Biso  1.000000 B
+   B2         1.0     0.500000      0.000000      0.344022     Biso  1.000000 B
+   B3         1.0     0.000000      1.000000      0.217391     Biso  1.000000 B
+   B4         1.0     0.500000      1.000000      0.257913     Biso  1.000000 B
