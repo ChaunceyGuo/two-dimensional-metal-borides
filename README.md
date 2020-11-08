@@ -1,5 +1,5 @@
 # two-dimensional-metal-borides
-cystal models obtained from DFT computations
+Cystal models obtained by DFT computations using the VASP
 
 Citation is not Mandatory BUT would be Appreciated.|
 When publishing results using these structures | Please Cite: 
